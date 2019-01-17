@@ -1,0 +1,12 @@
+{
+  "name": "graphql-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sjvasconcello/graphql-practice.git",
+  "author": "sjvasconcello <sjvasconcello@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.3.1",
+    "graphql": "^14.1.1"
+  }
+}
